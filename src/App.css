@@ -22,7 +22,7 @@
 }
 
 .darkTheme > * {
-  background-color: #2F3129;
+  background-color: #2f3129;
   color: white;
 }
 
@@ -30,3 +30,7 @@
   max-width: 100%;
 }
 
+.tittle {
+  margin-left: 90px;
+  margin-top: 32px;
+}
